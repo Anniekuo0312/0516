@@ -1,0 +1,43 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+	height: 3000px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+header h3 {
+    color: #0E12E0;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    color: #72760B;
+    text-shadow: 0px 0px #023703;
+}
+.heroimg {
+    height: 307px;
+    color: #F09294;
+    background-color: #FEFCFC;
+    background-image: url(1461028.png);
+    background-size: contain;
+    width: 100%;
+    background-position: 0% bottom;
+}
+.parallaxie{
+	
+}
+article h4 {
+    background-color: #9A9A9A;
+}
+.main {
+}
+.aa {
+    background-image: url(maxresdefault.jpg);
+    width: 432px;
+    height: 283px;
+    background-position: center center;
+    margin-left: 194px;
+    background-size: cover;
+}
